@@ -7,8 +7,9 @@ The purpose of this analysis is to use HTML and Javascript to filter through a t
 
 ## Results
 
-In order to perform a search for one field such as the date, enter the exact date in order to filter the UFO sighting data and press "Filter Table":
+In order to perform a search for one field such as the date, enter the exact date in order to filter the UFO sighting data and click anywhere on the page. Data can be entered into any of the individual 5 search fields present in order to perform a search for a single item in the table. 
 ![UFODataFilter1](https://github.com/tylerfallon/UFO_Challenge/blob/main/static/images/ufo2date.png?raw=true)
+
 
 Entering text into multiple search fields allows the data to be further refined:
 ![UFODataFilter3](https://github.com/tylerfallon/UFO_Challenge/blob/main/static/images/ufo3multi.png?raw=true)
