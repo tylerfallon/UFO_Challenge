@@ -16,3 +16,10 @@ In order to clear the filters and populate the table with all of the data again 
 
 ## Summary
 
+### Drawbacks 
+
+There are a few drawbacks withg this webpage. One of the primary issues is that data must be searched for exactly, and even a small typo or modification in the way data is typed into the field, such as adding a "0" to the date field (01/09/2010 vs 1/9/2010) will cause issues with the search results. 
+
+### Recommendations 
+
+There are a few recommendations that could vastly improve the user experience on this webpage. First, the search fields should not be case sensitive and should allow for similar or near-exact versions of the same types of searches, as mentioned above in the Drawbacks section of this README. This improvement would allow users to more reliably obtain filtered data. In addition, users should be able to search for text in the "Comments" section that will allow for different types of sightings to be searched for based on descriptions of each UFO sighting. 
