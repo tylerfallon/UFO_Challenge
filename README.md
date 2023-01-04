@@ -13,7 +13,7 @@ In order to perform a search for one field such as the date, enter the exact dat
 Entering text into multiple search fields allows the data to be further refined:
 ![UFODataFilter3](https://github.com/tylerfallon/UFO_Challenge/blob/main/static/images/ufo3multi.png?raw=true)
 
-You can enter text into all of the fields at once in order to perform a fully refined search using all of the data inputted for matching:
+You can enter text into all of the fields at once in order to perform a fully-refined search using all of the data inputted for matching:
 ![UFODataFilter4](https://github.com/tylerfallon/UFO_Challenge/blob/main/static/images/ufo4all.png?raw=true)
 
 
