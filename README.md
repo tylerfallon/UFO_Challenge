@@ -2,7 +2,7 @@
 
 ## Overview
 
-The purpose of this analysis is to use Javascript to filter through a table filled with UFO data sightings, allowing users to better refine their searches and populate the UFO sighting table data with customized information. 
+The purpose of this analysis is to use HTML and Javascript to filter through a table filled with UFO data sightings, allowing users to better refine their searches and populate the UFO sighting table data with customized information. Users can search by date, city, state, country, and shape of the UFO, allowing them to easily filter through UFO sighting data. 
 
 
 ## Results
