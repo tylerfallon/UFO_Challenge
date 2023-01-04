@@ -7,8 +7,9 @@ The purpose of this analysis is to use HTML and Javascript to filter through a t
 
 ## Results
 
-In order to perform a search for one field such as the date, enter the exact date in order to filter the UFO sighting data and press "Filter Table":
+In order to perform a search for one field such as the date, enter the exact date in order to filter the UFO sighting data and click anywhere on the page. Data can be entered into any of the individual 5 search fields present in order to perform a search for a single item in the table. 
 ![UFODataFilter1](https://github.com/tylerfallon/UFO_Challenge/blob/main/static/images/ufo2date.png?raw=true)
+
 
 Entering text into multiple search fields allows the data to be further refined:
 ![UFODataFilter3](https://github.com/tylerfallon/UFO_Challenge/blob/main/static/images/ufo3multi.png?raw=true)
@@ -17,8 +18,8 @@ You can enter text into all of the fields at once in order to perform a fully-re
 ![UFODataFilter4](https://github.com/tylerfallon/UFO_Challenge/blob/main/static/images/ufo4all.png?raw=true)
 
 
-In order to clear the filters and populate the table with all of the data again after performing a search, clear the form. It will show gray sample text that says "1/10/2010", but this can simply be ignored, as it does not cause a filtered search to occur. Pressing "Filter Table" will remove all filters and repopulate the complete data in the table, as shown below:
-![UFODataFilter2](https://github.com/tylerfallon/UFO_Challenge/blob/main/static/images/ufo1empty.png?raw=true)
+In order to clear the filters and populate the table with all of the data again after performing a search, clear the form. It will show gray sample text that says, for instance, "1/10/2010" (in the date field)- as well as other sample texts in the other forms- but this can simply be ignored, as it does not cause a filtered search to occur. 
+![UFODataFilter2](https://github.com/tylerfallon/UFO_Challenge/blob/main/static/images/ufo1fields.png?raw=true)
 
 
 ## Summary
